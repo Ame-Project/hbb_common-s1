@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["link-sp-3.ru2023.top"];
-pub const RS_PUB_KEY: &str = "xrSbSzhFqKZfaBPG6lMoJ+hVFd8hJvRZHyr2nzkvJmI=";
+pub const RS_PUB_KEY: &str = "1L2xOxyWEZZ5mFW5twOrD0eVkwS5pACFDO4iTcTvlsA=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
